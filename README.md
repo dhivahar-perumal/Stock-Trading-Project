@@ -7,6 +7,8 @@ Stock market price prediction has been a topic of interest for many years among 
 
 Bibliography :
 Shirzad Malekpour, James A. Primbs and B. Ross Barmish, On Stock Trading Using a PI Controller in an Idealized Market: The Robust Positive Expectation Property, 52nd IEEE Conference on Decision and Control December 10-13, 2013. Florence, Italy, pp. 1210-1216.
+
 R. C. Merton, Continuous-Time Finance, Macroeconomics and Finance Series, John Wiley and S ons, 1992.
+
 R. C. Merton, "Optimum Consumption and Portfolio Rules in a Continuous-Time Model," Joural of Economic Theor, vol. 3,pp. 373-413,1971.
 Omer Berat Sezer, A. Murat Ozbayoglu, Erdogan Dogdu, "An Artificial Neural Network-based Stock Trading System Using Technical Analysis and Big Data Framework", ACM SE '17 Proceedings of the SouthEast Conference, pp. 223-226, 2017. 
